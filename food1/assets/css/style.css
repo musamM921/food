@@ -698,7 +698,7 @@ a:focus {
 }
 
 .footer_container {
-  background-image: url(../css/img/footer-bg.png);
+  background-image: url();
   background-size: 100%;
   background-size: 100% 100%;
   background-repeat: no-repeat;
@@ -710,7 +710,7 @@ a:focus {
 .info_section {
   color: #ffffff;
   padding: 45px 0;
-  background-color: #070e6a;
+  background-color: #011475 ;
 }
 
 .info_section .contact_box {
@@ -785,7 +785,7 @@ a:focus {
 .footer_section {
   position: relative;
   text-align: center;
-  background-color: #070e6a;
+  background-color: #011475 ;
 }
 
 .footer_section p {
